@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MordleGrid.qml</file>
+        <file>MordleKeyboard.qml</file>
+        <file>WordList.txt</file>
+    </qresource>
+</RCC>
